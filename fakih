@@ -1,6 +1,6 @@
 <servers>
-    <server
-        name="ZONA MODULASI"
+    <server 
+        name="perbaikan apk by fakih"
         ca="0"
         continent_code="ID"
         country="01"
@@ -10,16 +10,5 @@
         region="indonesia"
         url="https://zn.mumble.my.id"
         token=""
-    >
-        <!-- lagi ada perbaikan apk -->
-        <description>
-            nantikan apk terbaru dari zona modulasi.
-        </description>
-        
-        <notes>
-            owner abah agus
-            pengembang apk 
-            fakih karawang
-        </notes>
-    </server>
-</serveservefaki
+    />
+</servers>
