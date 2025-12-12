@@ -1,3 +1,25 @@
 <servers>
-<server name="perbaikan apk " name="by fakih"  ca="0" continent_code="ID" country="01" country_code="ID" ip="zn.mumble.my.id" port="22333"region="indonesia" url="https://zn.mumble.my.id" token=""/>
-</servers>
+    <server
+        name="ZONA MODULASI"
+        ca="0"
+        continent_code="ID"
+        country="01"
+        country_code="ID"
+        ip="zn.mumble.my.id"
+        port="22333"
+        region="indonesia"
+        url="https://zn.mumble.my.id"
+        token=""
+    >
+        <!-- lagi ada perbaikan apk -->
+        <description>
+            nantikan apk terbaru dari zona modulasi.
+        </description>
+        
+        <notes>
+            owner abah agus
+            pengembang apk 
+            fakih karawang
+        </notes>
+    </server>
+</serveservefaki
